@@ -13,6 +13,6 @@ git clone https://github.com/Scammur/FB-TOOLS
 
 cd FB-TOOLS
 
-python spamcomment.py
+python3.11 {file}.py
 
 # SOON: REACT, SHARE, FOLLOW
