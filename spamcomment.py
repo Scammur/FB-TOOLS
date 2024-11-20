@@ -1,4 +1,4 @@
-#FEEL FREE TO MODIFIED MY SHITTY SCRIPT HAAHHAHA
+#FEEL FREE TO MODIFY MY SHITTY SCRIPT HAAHHAHA
 #imports
 import os, sys, time, uuid, string, random
 from os import system as sm
