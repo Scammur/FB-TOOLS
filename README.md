@@ -3,8 +3,8 @@
 
 # INSTALLATION
 
-pkg update -y && pkg upgrade -y
-pkg install git tur-repo python3.11
+pkg update -y && pkg upgrade -y\n
+pkg install git tur-repo python3.11\n
 cd 
 git clone https://github.com/Scammur/FB-TOOLS
 cd FB-TOOLS
